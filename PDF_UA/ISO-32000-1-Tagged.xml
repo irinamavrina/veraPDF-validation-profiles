@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>//
 <profile xmlns="http://www.verapdf.org/ValidationProfile" flavour="PDFA_2_U">
     <details creator="veraPDF Consortium" created="2019-11-06T10:05:46.911+03:00">
         <name>Tagged pdf profile for PDF 1.7 specification</name>
