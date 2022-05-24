@@ -3,7 +3,7 @@ name: Update PDF_A profiles in veraPDF-library
 on:
   push:
     branches:
-      [ integration ]
+      [ test_profiles ]
     paths:
       - 'PDF_A/**'
       - '!PDF_A/1a/**'

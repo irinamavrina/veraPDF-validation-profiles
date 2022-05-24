@@ -3,7 +3,7 @@ name: Update PDF_UA profile in veraPDF-library
 on:
   push:
     branches:
-      [ integration ]
+      [ test_profiles ]
     paths:
       - 'PDF_UA/PDFUA-1.xml'
 
