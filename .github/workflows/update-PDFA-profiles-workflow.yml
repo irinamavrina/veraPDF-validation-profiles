@@ -34,7 +34,7 @@ jobs:
         uses: drud/action-cross-commit@master
         with:
           source-folder: PDF_A
-          destination-repository: https://irinamavrina:${{ secrets.WORKFLOW_TOKEN }}@github.com/irinamavrina/veraPDF-library
+          destination-repository: https://irinamavrina:${{ secrets.FORK_TOKEN }}@github.com/irinamavrina/veraPDF-library
           destination-folder: core/src/main/resources/org/verapdf/pdfa/validation
           destination-branch: test_profiles
           git-user: "Git User"
